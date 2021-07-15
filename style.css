@@ -1,0 +1,32 @@
+body {
+  background: url('PKSAS.jpg') no-repeat center center fixed;
+  background-size: cover;
+  overflow: hidden;
+}
+input {
+    background: transparent;
+    color:#FFFFFF;
+    border-width: 10;
+    border-color:#FFFFFF;
+}
+textarea {
+	background: transparent;
+	color:#FFFFFF;
+	border-color:#FFFFFF;
+}
+h3 {
+	color:#FFFFFF;
+}
+a {
+  color:#FFFFFF;
+}
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
